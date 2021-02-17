@@ -1,0 +1,10 @@
+body {
+  max-width: 650px;
+}
+.tag {
+  line-height: 1.6;
+}
+fieldset {
+  border-style: dashed;
+  border-color: #aaa;
+}
