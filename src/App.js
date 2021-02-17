@@ -15,7 +15,7 @@ function App() {
       <p className="tag">
         Your WiFi information is never sent to the server.
         No tracking, analytics, or fingerprinting are used on this website.
-        View the <a href="https://github.com/itsRealoj/wifi-card">source code</a>.
+        View Source code:  <a href="https://github.com/itsRealoj/wifi-card"></a>.
       </p>
 
       <Card />
