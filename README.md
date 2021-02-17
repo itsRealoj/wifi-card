@@ -12,7 +12,7 @@ It looks like this:
 Run the latest Docker image on http://localhost:8080
 
 ```
-docker run --rm -p 8080:80 bndw/wifi-card:latest
+docker run --rm -p 8080:80 
 ```
 
 Or run the live-reload server on http://localhost:8080
